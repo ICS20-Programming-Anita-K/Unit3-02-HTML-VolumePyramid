@@ -5,7 +5,7 @@
 "use strict"
 
 /**
- * This function calculates area and perimeter of rectangle.
+ * This function calculates volume of a triangular pyramid.
  */
 function calcVolume () {
   // get user input
